@@ -16,7 +16,7 @@ public class Main {
         System.out.print("Lutfen 3.sayiyi girin : ");
         c = inp.nextInt();
 
-        double sonuc = a+(b*c)-b;
+        double sonuc = a+b*c-b;
 
         System.out.println(sonuc);
     }
