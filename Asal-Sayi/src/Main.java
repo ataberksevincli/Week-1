@@ -15,11 +15,10 @@ public class Main {
                     asal = false;
                     break;
                 }
-                }if (asal){
+            }if (asal){
                 System.out.println(i + " sayısı bir asal sayıdır.");
 
             }
         }
     }
 }
-
